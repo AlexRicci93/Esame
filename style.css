@@ -1,0 +1,35 @@
+
+
+
+
+aside {
+
+    background-color: grey;
+    width: 200px;
+
+
+
+}
+
+
+.blue-container {
+
+    background-color: blue;
+    margin: auto;
+    width: 130px;
+    height: 100px;
+
+}
+
+.content-area {
+    height: 100vh;
+    background-color: rgb(208, 198, 198);
+    display: flex;
+    flex-grow: 1;
+}
+
+.div-radius {
+    width: 30px;
+    height: 30px;
+    border-radius: 9px;
+}
